@@ -30,7 +30,7 @@ I typed this command to enter insert mode and add "base".
 I typed this to exit insert mode.
   
 n <ENTER>
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.18.00%20PM.png)
+![Image](Screen%20Shot%202022-11-13%20at%202.18.00%20PM.png)
 I typed this to find the next "start".
   
 dw

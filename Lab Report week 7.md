@@ -45,7 +45,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.14.12%20PM.png)
+![Image](step3.png)
   
 I typed this to exit insert mode.
   
@@ -54,7 +54,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
 
-![Image](Screen%20Shot%202022-11-13%20at%202.18.00%20PM.png)
+![Image](step4.png)
   
 I typed this to find the next "start".
 
@@ -63,7 +63,7 @@ I typed this to find the next "start".
   
 dw
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.18.49%20PM.png)
+![Image](step5.png)
   
 I typed this command for deleting the next "start".
  
@@ -71,7 +71,7 @@ I typed this command for deleting the next "start".
   
 ibase
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.20.49%20PM.png)
+![Image](step6.png)
   
 I typed this command to enter insert mode and add "base".
  
@@ -81,7 +81,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.22.08%20PM.png)
+![Image](step7.png)
   
 I typed this to exit insert mode.  
   
@@ -90,7 +90,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.23.29%20PM.png)
+![Image](step8.png)
   
 I typed this to find the next "start".  
   
@@ -99,7 +99,7 @@ I typed this to find the next "start".
   
 dw
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.24.03%20PM.png)
+![Image](step9.png)
   
 I typed this command for deleting the next "start".  
   
@@ -108,7 +108,7 @@ I typed this command for deleting the next "start".
   
 ibase
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.24.36%20PM.png)
+![Image](step10.png)
   
 I typed this command to enter insert mode and add "base".
   
@@ -117,7 +117,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.25.14%20PM.png)
+![Image](step11.png)
   
 I typed this to exit insert mode.  
   
@@ -126,9 +126,9 @@ I typed this to exit insert mode.
   
 :wq <ENTER>
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.26.02%20PM.png)
+![Image](step12.png)
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.26.34%20PM.png)
+![Image](step13.png)
   
   
 I exit the vim and return to my terminal. 

@@ -11,7 +11,7 @@ dwibase<ESC>n<ENTER>dwibase<ESC>n<ENTER>dwibase<ESC>:wq<ENTER>
   
 vim DocSearchServer.java [ENTER]
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%201.54.38%20PM.png)
+![Image](1.png)
   
 I typed this command in the terminal and then I entered the vim from this command.
   
@@ -19,7 +19,7 @@ I typed this command in the terminal and then I entered the vim from this comman
   
 /start <ENTER>
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.09.46%20PM.png)
+![Image](2.png)
   
 I typed this command for searching "start" in vim.
   
@@ -28,7 +28,7 @@ I typed this command for searching "start" in vim.
   
 dw
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.11.49%20PM.png)
+![Image](step1.png)
   
 I typed this command for deleting the first "start".
   
@@ -36,7 +36,7 @@ I typed this command for deleting the first "start".
   
 ibase
   
-![Image](https://github.com/wahanucsd/list-examples-grader/blob/main/Screen%20Shot%202022-11-13%20at%202.13.30%20PM.png)
+![Image](step2.png)
   
 I typed this command to enter insert mode and add "base".
   
